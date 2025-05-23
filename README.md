@@ -60,3 +60,31 @@ Then run:
 ```bash
 python main.py
 ```
+
+The script will print the extracted text in the console or save it to a `.txt` file.
+
+---
+
+## 📝 Sample Output
+
+```bash
+Extracted Text:
+----------------
+This is a sample image
+with text that has been
+successfully extracted!
+```
+
+---
+
+## 📁 Project Structure
+
+```bash
+OCR_Task/
+├── images/
+│   └── sample.jpg
+├── ocr_script.py
+├── requirements.txt
+├── README.md
+└── .gitignore
+```
