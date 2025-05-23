@@ -54,7 +54,9 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 ## 📷 How to Use
 
 Place your image(s) in the `images/` folder (or update the path).
+
 Then run:
+
 ```bash
 python main.py
 ```
