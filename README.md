@@ -88,3 +88,17 @@ OCR_Task/
 ├── README.md
 └── .gitignore
 ```
+
+## 🙌 Contributions
+
+Feel free to fork the project and suggest improvements! Open issues or submit pull requests to contribute.
+
+---
+
+## 📬 Contact
+
+For queries or collaborations, feel free to reach out:
+
+- **Name**: *Pratham Punjabi*
+- **Email**: *prathampunjabi705@gmail.com*
+- **LinkedIn**: https://www.linkedin.com/in/pratham-p-b288b1218/
