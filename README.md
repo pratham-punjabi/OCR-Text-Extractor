@@ -41,6 +41,6 @@ venv\Scripts\activate       # On Windows
 ```
 
 ### 4. Make Sure Tesseract is Installed
-- Download and install Tesseract from here.
+- Download and install Tesseract from here. https://github.com/tesseract-ocr/tesseract
 - Add the Tesseract path to your system environment variables.
 - Or manually set the path in your Python file:
