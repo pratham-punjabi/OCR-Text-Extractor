@@ -1,6 +1,8 @@
 # 🧾 OCR Text Extractor
 
-A simple Python-based Optical Character Recognition (OCR) project that extracts text from images using Tesseract and OpenCV.
+Optical Character Recognition (OCR) is a technology that enables the extraction of text from images, scanned documents, or handwritten notes. The primary goal of this project is to develop a lightweight OCR tool using Python that can process image files and accurately retrieve the text content within them.
+
+This project leverages libraries like pytesseract, OpenCV, and Pillow to pre-process the images and extract textual data efficiently. It is useful for converting scanned documents into editable formats, automating data entry tasks, or enabling search functionality in image-based archives.
 
 ---
 
